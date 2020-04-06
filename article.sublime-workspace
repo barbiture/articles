@@ -1,0 +1,1082 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lsre",
+				"LSP: Restart Servers"
+			],
+			[
+				"LSP: ",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp d",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"lsp re",
+				"LSP: Restart Servers"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disab",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"lspr ",
+				"LSP: Restart Servers"
+			],
+			[
+				"json pre",
+				"Pretty JSON: Validate"
+			],
+			[
+				"lsplo",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lslo",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lspse",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp lo",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lspre",
+				"LSP: Restart Servers"
+			],
+			[
+				"res",
+				"LSP: Restart Servers"
+			],
+			[
+				"jsop",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"re",
+				"LSP: Restart Servers"
+			],
+			[
+				"lsp se",
+				"Preferences: LSP Settings"
+			],
+			[
+				"LSP di",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"LSP LO",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lsp",
+				"Preferences: LSP Keybindings"
+			],
+			[
+				"lsp en",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lsp di",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"lsp log",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"LSP",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"bable",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"lsp de",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"lsp set",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp sett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"set sy bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"lslog",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"lspset",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp ",
+				"Set Syntax: Lisp"
+			],
+			[
+				"tolo",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"LSP lo",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"log",
+				"LSP: Toggle Diagnostics Panel"
+			],
+			[
+				"lsr",
+				"LSP: Restart Servers"
+			],
+			[
+				"ls",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"rest",
+				"LSP: Restart Servers"
+			],
+			[
+				"nex",
+				"LSP: Next Diagnostic"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"theme",
+				"gruvbox: Select Theme"
+			],
+			[
+				"js",
+				"Set Syntax: JSX"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"esli",
+				"ESLint"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pos",
+				"Set Syntax: PostCSS"
+			],
+			[
+				"po",
+				"Set Syntax: PostCSS"
+			],
+			[
+				"post",
+				"Set Syntax: PostCSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remopa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo repo",
+				"Package Control: Remove Repository"
+			],
+			[
+				"jsonp",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"packc rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"inp",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"gruvbox: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/barbi/playground/article/src/index.css",
+		"/Users/barbi/playground/article/src/components/article-list.js",
+		"/Users/barbi/playground/article/package-lock.json",
+		"/Users/barbi/Library/Application Support/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/Users/barbi/playground/article/fixtures/articles.js",
+		"/Users/barbi/pjs/utils/faker/articles/index.js",
+		"/Users/barbi/playground/article/article.sublime-project",
+		"/Users/barbi/playground/article/src/components/article-list.test.js",
+		"/Users/barbi/pjs/utils/faker/articles/fixtures/articles.js",
+		"/Users/barbi/pjs/rutexts/src/includes/about.pug",
+		"/Users/barbi/pjs/rutexts/src/includes/pj.pug",
+		"/Users/barbi/pjs/rutexts/src/includes/exp.pug",
+		"/Users/barbi/pjs/rutexts/src/styles/modal.css",
+		"/Users/barbi/pjs/rutexts/src/app/components/menu.js",
+		"/Users/barbi/pjs/rutexts/src/includes/nav.pug",
+		"/Users/barbi/pjs/rutexts/src/app/components/modal.js",
+		"/Users/barbi/pjs/rutexts/src/style.css",
+		"/Users/barbi/pjs/rutexts/src/styles/fonts.css",
+		"/Users/barbi/pjs/rutexts/src/styles/nav.css",
+		"/Users/barbi/pjs/rutexts/src/styles/about.css",
+		"/Users/barbi/pjs/rutexts/src/app/components/nav.js",
+		"/Users/barbi/pjs/rutexts/src/app/components/hide-text.js",
+		"/Users/barbi/pjs/rutexts/src/styles/exp.css",
+		"/Users/barbi/pjs/rutexts/src/styles/feed-back.css",
+		"/Users/barbi/pjs/rutexts/src/styles/file-upload.css",
+		"/Users/barbi/pjs/rutexts/src/styles/footer.css",
+		"/Users/barbi/pjs/rutexts/src/styles/header.css",
+		"/Users/barbi/pjs/rutexts/src/styles/language.css",
+		"/Users/barbi/pjs/rutexts/src/styles/localization.css",
+		"/Users/barbi/pjs/rutexts/src/styles/pj.css",
+		"/Users/barbi/pjs/rutexts/src/styles/services.css",
+		"/Users/barbi/pjs/rutexts/src/styles/tile.css",
+		"/Users/barbi/pjs/rutexts/src/styles/title.css",
+		"/Users/barbi/pjs/rutexts/src/includes/feed-back.pug",
+		"/Users/barbi/pjs/rutexts/src/includes/services.pug",
+		"/Users/barbi/pjs/rutexts/src/includes/localization.pug",
+		"/Users/barbi/pjs/rutexts/src/includes/header.pug",
+		"/Users/barbi/pjs/rutexts/src/includes/tile.pug",
+		"/Users/barbi/pjs/rutexts/src/index.pug",
+		"/Users/barbi/playground/article/src/app.js",
+		"/Users/barbi/playground/article/src/components/article.js",
+		"/Users/barbi/playground/article/src/components/article-comments.js",
+		"/Users/barbi/playground/article/src/decorators/accordion.js",
+		"/Users/barbi/playground/article/src/decorators/toggleOpen.js",
+		"/Users/barbi/playground/article/package.json",
+		"/Users/barbi/playground/article/fixtures/articles",
+		"/Users/barbi/playground/article/node_modules/core-js/features/aggregate-error.js",
+		"/Users/barbi/playground/article/node_modules/babel-runtime/helpers/jsx.js",
+		"/Users/barbi/playground/article/node_modules/eslint-plugin-jsx-a11y/lib/util/implicitRoles/article.js",
+		"/Users/barbi/playground/play-react/src/App.js",
+		"/Users/barbi/playground/play-react/src/index.js",
+		"/Users/barbi/playground/play-react/src/components/Navbar.js",
+		"/Users/barbi/playground/play-react/src/components/AddTodo.css",
+		"/Users/barbi/playground/play-react/src/components/AddTodo.js",
+		"/Users/barbi/pjs/rutexts/node_modules/brace/example/index.css",
+		"/Users/barbi/pjs/rutexts/dist/assets/images/translate-top.svg",
+		"/Users/barbi/pjs/rutexts/dist/assets/images/test-top.svg",
+		"/Users/barbi/pjs/rutexts/src/styles/var.css",
+		"/Users/barbi/pjs/rutexts/dist/assets/images/translate.svg",
+		"/Users/barbi/pjs/rutexts/dist/styles/modal.css",
+		"/Users/barbi/pjs/rutexts/src/styles/inputs.css",
+		"/Users/barbi/pjs/rutexts/config/webpack.common.config.js",
+		"/Users/barbi/pjs/rutexts/src/app/app.js",
+		"/Users/barbi/pjs/rutexts/node_modules/font-loader/node_modules/lodash/function/modArgs.js",
+		"/Users/barbi/pjs/rutexts/src/includes/footer.pug",
+		"/Users/barbi/pjs/rutexts/src/styles/controls.css",
+		"/Users/barbi/pjs/rutexts/src/app/components/slide.js",
+		"/Users/barbi/pjs/rutexts/node_modules/better-docs/README.md",
+		"/Users/barbi/pjs/rutexts/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/fe/c6/a708bb2f69be3d30070ee1af7f823ac007b9acced6de331a049c8c7b1baa0a0fb7419fe6f5fad6456c85018769cf865a15bd5d0a675ccaff27d7ed2386f9",
+		"/Users/barbi/pjs/rutexts/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/c6/36/290d5df8f532d40463d838632ddc17b922409a9bc24669155caaa5863900ed8708f5e34c5b0561988a7473faa934a6bc5147f2dff9a7738ddd1adad31b55",
+		"/Users/barbi/pjs/rutexts/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/bf/b7/849ea3dcb0242fe814c430c7a842ce3a9f942c6fb0f527dd2f3ed6ac0662151fe8867ffefde34c3d35efa111b44e1646cd8b426f8c18c1b1b20a80412be6",
+		"/Users/barbi/pjs/rutexts/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/a8/8b/ef7e3e9827e92f27b3b037b0b0cae21bd141b8942d8bdb464e5793acc8fe6bd6646a59091ee2edb5e2e258d26f5337fb0eed323c1f9e27df374bab6407f7",
+		"/Users/barbi/pjs/rutexts/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/81/06/94c2da61c8d79c065768379b79aba81a0dd7d7ba3d98487a6ff82f17132e36baedeb637167c504b5146305db9e2190356f0b5c95599a1835a7d1671d39d5",
+		"/Users/barbi/pjs/rutexts/dist/styles/tile.css",
+		"/Users/barbi/pjs/rutexts/dist/styles/services-icon.css",
+		"/Users/barbi/pjs/rutexts/dist/styles/localization.css",
+		"/Users/barbi/pjs/rutexts/dist/styles/language.css",
+		"/Users/barbi/pjs/rutexts/dist/styles/header.css",
+		"/Users/barbi/pjs/rutexts/dist/styles/footer.css",
+		"/Users/barbi/pjs/rutexts/dist/styles/fonts.css",
+		"/Users/barbi/pjs/rutexts/dist/styles/file-upload.css",
+		"/Users/barbi/pjs/rutexts/dist/styles/exp.css",
+		"/Users/barbi/pjs/rutexts/dist/styles/controls.css",
+		"/Users/barbi/pjs/rutexts/dist/main.e928433c25c6ff87977e.js",
+		"/Users/barbi/pjs/rutexts/dist/index.html",
+		"/Users/barbi/pjs/rutexts/src/app/components/language.js",
+		"/Users/barbi/pjs/rutexts/src/includes/file-upload.pug",
+		"/Users/barbi/pjs/rutexts/src/app/components/file-upload.js",
+		"/Users/barbi/pjs/rutexts/src/styles/services-icon.css",
+		"/Users/barbi/pjs/rutexts/src/assets/images/logo-decor-sm.svg",
+		"/Users/barbi/pjs/rutexts/postcss.config.js",
+		"/Users/barbi/pjs/rutexts/src/assets/images/section-top-sm.svg",
+		"/Users/barbi/pjs/rutexts/src/styles/ui.css",
+		"/Users/barbi/pjs/rutexts/src/includes/controls.pug",
+		"/Users/barbi/pjs/rutexts/src/includes/ui.pug",
+		"/Users/barbi/pjs/rutexts/src/assets/images/section-top.svg",
+		"/Users/barbi/pjs/rutexts/src/app/components/paralax.js",
+		"/Users/barbi/pjs/rutexts/node_modules/caniuse-lite/data/features/navigator-language.js",
+		"/Users/barbi/pjs/rutexts/node_modules/negotiator/lib/language.js",
+		"/Users/barbi/pjs/rutexts/src/includes/language.pug",
+		"/Users/barbi/pjs/rutexts/src/styles/re-captcha.css",
+		"/Users/barbi/pjs/rutexts/src/layout.pug",
+		"/Users/barbi/pjs/rutexts/node_modules/.bin/seek-table",
+		"/Users/barbi/pjs/rutexts/src/includes/re-capthca.pug",
+		"/Users/barbi/pjs/rutexts/src/styles/re-capthca.css",
+		"/Users/barbi/pjs/rutexts/src/includes/inputs.pug",
+		"/Users/barbi/pjs/rutexts/src/includes/form.pug",
+		"/Users/barbi/pjs/rutexts/node_modules/lodash/includes.js",
+		"/Users/barbi/pjs/rutexts/src/includes/services-icon.pug",
+		"/Users/barbi/pjs/rutexts/node_modules/better-docs/styles/components/button.sass",
+		"/Users/barbi/pjs/rutexts/src/assets/images/local-1.svg",
+		"/Users/barbi/pjs/rutexts/src/assets/images/logo.svg",
+		"/Users/barbi/pjs/rutexts/src/includes/title.pug",
+		"/Users/barbi/pjs/rutexts/node_modules/optimize-css-assets-webpack-plugin/test/cases/assetNameRegExp-no-source/expected/file.css",
+		"/Users/barbi/pjs/rutexts/node_modules/@babel/generator/node_modules/source-map/lib/util.js",
+		"/Users/barbi/pjs/users-test/src/app/components/loader.js",
+		"/Users/barbi/pjs/users-test/src/app/components/users.js",
+		"/Users/barbi/pjs/rutexts/src/assets/images/decorArrow.svg",
+		"/Users/barbi/pjs/rutexts/config/webpack.prod.config.js",
+		"/Users/barbi/pjs/rutexts/config/webpack.dev.config.js",
+		"/Users/barbi/Downloads/rutext/check.svg",
+		"/Users/barbi/pjs/rutexts/package.json",
+		"/Users/barbi/Downloads/rutext/CustomFileInputs/index.html",
+		"/Users/barbi/pjs/rutexts/src/assets/images/upload.svg",
+		"/Users/barbi/pjs/rutexts/dist/styles/var.css",
+		"/Users/barbi/pjs/rutexts/dist/style.290699016af8d4c5e0ce.css",
+		"/Users/barbi/pjs/rutexts/dist/style.ee800e5320f7f23193ac.css",
+		"/Users/barbi/pjs/rutexts/node_modules/lodash/isNative.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 146.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\",\"",
+			"},{",
+			"}a"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 708.0
+	},
+	"output.diagnostics":
+	{
+		"height": 308.0
+	},
+	"output.exec":
+	{
+		"height": 622.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 424.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "article.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"arti-l",
+				"src/components/article-list.js"
+			],
+			[
+				"hid",
+				"app/components/hide-text.js"
+			],
+			[
+				"hide",
+				"app/components/hide-text.js"
+			],
+			[
+				"mo",
+				"app/components/modal.js"
+			],
+			[
+				"nav.pu",
+				"includes/nav.pug"
+			],
+			[
+				"moda.css",
+				"styles/modal.css"
+			],
+			[
+				"nav.css",
+				"styles/nav.css"
+			],
+			[
+				"exp.pu",
+				"includes/exp.pug"
+			],
+			[
+				"men",
+				"app/components/menu.js"
+			],
+			[
+				"ex.pu",
+				"index.pug"
+			],
+			[
+				"exp",
+				"styles/exp.css"
+			],
+			[
+				"tile",
+				"includes/tile.pug"
+			],
+			[
+				"pj.css",
+				"styles/pj.css"
+			],
+			[
+				"abou",
+				"includes/about.pug"
+			],
+			[
+				"fee",
+				"includes/feed-back.pug"
+			],
+			[
+				"pj.",
+				"includes/pj.pug"
+			],
+			[
+				"loca",
+				"includes/localization.pug"
+			],
+			[
+				"ser",
+				"includes/services.pug"
+			],
+			[
+				"head",
+				"includes/header.pug"
+			],
+			[
+				"nav.js",
+				"app/components/nav.js"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"article-lis.te",
+				"src/components/article-list.test.js"
+			],
+			[
+				"ae",
+				"node_modules/core-js/features/aggregate-error.js"
+			],
+			[
+				"jsx",
+				"node_modules/babel-runtime/helpers/jsx.js"
+			],
+			[
+				"app.",
+				"src/app.js"
+			],
+			[
+				"arti",
+				"src/components/article.js"
+			],
+			[
+				"article",
+				"src/components/article.js"
+			],
+			[
+				"articl",
+				"node_modules/eslint-plugin-jsx-a11y/lib/util/implicitRoles/article.js"
+			],
+			[
+				"toogleOpen",
+				"src/decorators/toggleOpen.js"
+			],
+			[
+				"articles",
+				"src/components/article-list.js"
+			],
+			[
+				"exp.css",
+				"src/styles/exp.css"
+			],
+			[
+				"ex.cs",
+				"node_modules/brace/example/index.css"
+			],
+			[
+				"mod",
+				"src/styles/modal.css"
+			],
+			[
+				"tile.pu",
+				"src/includes/tile.pug"
+			],
+			[
+				"til",
+				"src/includes/tile.pug"
+			],
+			[
+				"fee.pu",
+				"src/includes/feed-back.pug"
+			],
+			[
+				"pj.p",
+				"src/includes/pj.pug"
+			],
+			[
+				"ex",
+				"src/includes/exp.pug"
+			],
+			[
+				"ser.pu",
+				"src/includes/services.pug"
+			],
+			[
+				"styl",
+				"src/style.css"
+			],
+			[
+				"test-top",
+				"dist/assets/images/test-top.svg"
+			],
+			[
+				"trans-top",
+				"dist/assets/images/translate-top.svg"
+			],
+			[
+				"transla",
+				"dist/assets/images/translate.svg"
+			],
+			[
+				"var",
+				"src/styles/var.css"
+			],
+			[
+				"nav.cs",
+				"src/styles/nav.css"
+			],
+			[
+				"menu",
+				"src/app/components/menu.js"
+			],
+			[
+				"modal.css",
+				"dist/styles/modal.css"
+			],
+			[
+				"modal.js",
+				"src/app/components/modal.js"
+			],
+			[
+				"moda.js",
+				"node_modules/font-loader/node_modules/lodash/function/modArgs.js"
+			],
+			[
+				"s",
+				"src/style.css"
+			],
+			[
+				"header.css",
+				"src/styles/header.css"
+			],
+			[
+				"header",
+				"src/includes/header.pug"
+			],
+			[
+				"nav",
+				"src/styles/nav.css"
+			],
+			[
+				"nav.",
+				"src/styles/nav.css"
+			],
+			[
+				"title",
+				"src/styles/title.css"
+			],
+			[
+				"exp.cs",
+				"src/styles/exp.css"
+			],
+			[
+				"navcs",
+				"src/styles/nav.css"
+			],
+			[
+				"web.com",
+				"config/webpack.common.config.js"
+			],
+			[
+				"app.js",
+				"src/app/app.js"
+			],
+			[
+				"inpu",
+				"src/styles/inputs.css"
+			],
+			[
+				"style",
+				"src/style.css"
+			],
+			[
+				"fee.",
+				"src/includes/feed-back.pug"
+			],
+			[
+				"pj.cs",
+				"src/styles/pj.css"
+			],
+			[
+				"tile.",
+				"src/styles/tile.css"
+			],
+			[
+				"loca.css",
+				"src/styles/localization.css"
+			],
+			[
+				"modal.cs",
+				"src/styles/modal.css"
+			],
+			[
+				"fon",
+				"src/styles/fonts.css"
+			],
+			[
+				"titl",
+				"src/styles/title.css"
+			],
+			[
+				"footer",
+				"src/includes/footer.pug"
+			],
+			[
+				"index",
+				"src/index.pug"
+			],
+			[
+				"he.cs",
+				"src/styles/header.css"
+			],
+			[
+				"head.pu",
+				"src/includes/header.pug"
+			],
+			[
+				"langu",
+				"src/app/components/language.js"
+			],
+			[
+				"servi",
+				"src/includes/services.pug"
+			],
+			[
+				"app",
+				"src/app/app.js"
+			],
+			[
+				"slide",
+				"src/app/components/slide.js"
+			],
+			[
+				"fil-up.js",
+				"src/app/components/file-upload.js"
+			],
+			[
+				"fil",
+				"src/includes/file-upload.pug"
+			],
+			[
+				"logo-de-s",
+				"src/assets/images/logo-decor-sm.svg"
+			],
+			[
+				"foote",
+				"src/styles/footer.css"
+			],
+			[
+				"feed",
+				"src/includes/feed-back.pug"
+			],
+			[
+				"foote.css",
+				"src/styles/footer.css"
+			],
+			[
+				"abo",
+				"src/styles/about.css"
+			],
+			[
+				"ser.cs",
+				"src/styles/services.css"
+			],
+			[
+				"head.css",
+				"src/styles/header.css"
+			],
+			[
+				"post",
+				"postcss.config.js"
+			],
+			[
+				"cont.css",
+				"src/styles/controls.css"
+			],
+			[
+				"contr",
+				"src/includes/controls.pug"
+			],
+			[
+				"ui.css",
+				"src/styles/ui.css"
+			],
+			[
+				"ui",
+				"src/includes/ui.pug"
+			],
+			[
+				"tile.cs",
+				"src/styles/tile.css"
+			],
+			[
+				"header.pu",
+				"src/includes/header.pug"
+			],
+			[
+				"abo.css",
+				"src/styles/about.css"
+			],
+			[
+				"tile.css",
+				"src/styles/tile.css"
+			],
+			[
+				"file",
+				"src/styles/file-upload.css"
+			],
+			[
+				"pj",
+				"src/includes/pj.pug"
+			],
+			[
+				"serv.pu",
+				"src/includes/services.pug"
+			],
+			[
+				"icon.css",
+				"src/styles/services-icon.css"
+			],
+			[
+				"var.css",
+				"src/styles/var.css"
+			],
+			[
+				"titl.css",
+				"src/styles/title.css"
+			],
+			[
+				"langu.css",
+				"src/styles/language.css"
+			],
+			[
+				"lang",
+				"src/app/components/language.js"
+			],
+			[
+				"h",
+				"src/styles/header.css"
+			],
+			[
+				"serv",
+				"src/styles/services.css"
+			],
+			[
+				"paral",
+				"src/app/components/paralax.js"
+			],
+			[
+				"ui.cs",
+				"src/styles/ui.css"
+			],
+			[
+				"language",
+				"src/app/components/language.js"
+			],
+			[
+				"langua",
+				"node_modules/caniuse-lite/data/features/navigator-language.js"
+			],
+			[
+				"langu.js",
+				"node_modules/negotiator/lib/language.js"
+			],
+			[
+				"footer.css",
+				"src/styles/footer.css"
+			],
+			[
+				"head.cs",
+				"src/styles/header.css"
+			],
+			[
+				"inde",
+				"src/index.pug"
+			],
+			[
+				"loca.cs",
+				"src/styles/localization.css"
+			],
+			[
+				"st",
+				"node_modules/.bin/seek-table"
+			],
+			[
+				"con",
+				"src/includes/controls.pug"
+			],
+			[
+				"con.cs",
+				"src/styles/controls.css"
+			],
+			[
+				"inp",
+				"src/styles/inputs.css"
+			],
+			[
+				"fil.cs",
+				"src/styles/file-upload.css"
+			],
+			[
+				"cont",
+				"src/includes/controls.pug"
+			],
+			[
+				"feed-",
+				"src/styles/feed-back.css"
+			],
+			[
+				"contro",
+				"src/includes/controls.pug"
+			],
+			[
+				"re-ca",
+				"src/styles/re-captcha.css"
+			],
+			[
+				"re-c",
+				"src/includes/re-capthca.pug"
+			],
+			[
+				"re-c.css",
+				"src/styles/re-capthca.css"
+			],
+			[
+				"lay",
+				"src/layout.pug"
+			],
+			[
+				"file-u.js",
+				"src/app/components/file-upload.js"
+			],
+			[
+				"inde.",
+				"src/index.pug"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 337.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
